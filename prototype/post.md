@@ -31,8 +31,7 @@ We created a storyboard of the user flow, and then generate some prototype using
 ![alt text](https://github.com/cableyesto/holbertonschool-designer_language/blob/master/prototype/img/StoryBoard.png?raw=true)
 
 To sum up the user flow. Alex wants to easily add some new playlist to focus while working.
-The user starts using the application with the Homepage screen, the search bar does appear once
-the user clicked on the Browse Tab on the left menu.
+The user starts using the application with the Homepage screen, the search bar is already available or he can click on the Browse Tab on the left menu.
 
 He moves to the Browse Screen a search bar does appear.
 He can use some fiters to have a more accurate search query. He can also choose between Playlists, Songs, Music, so that the results will only match the picked option.
@@ -43,7 +42,7 @@ The user interaction is as follow:\
 3- Add filters to precise the query.\
 4- Click on the loop icon.
 
-The Playlist screen will all music that contains a playlist. There is a button to add the playlist to the user's playlist.
+The Playlist screen will display all music that contains a playlist. There is a button to add the playlist to the user's playlist.
 
 The Playlists Result screen is displaying all the playlists that matches the word provided in the search bar. The possible interaction in this page is to either click on a playlist to check it's music. Or directly press on the add icon to directly the playlist to the user's playlists.
 
@@ -51,8 +50,17 @@ The Playlist Added Screen will display to the user a popup that notify the user 
 
 ### Interactive prototype
 You can access
-<a href="https://www.figma.com/design/iGI6tSOBF4Y3SW29JMSsdd/Spotify-Music-UI-Design---Prototype--Community-?node-id=184-7120&t=bIjKDuyvGjUQpctI-0">
+<a href="https://www.figma.com/design/xWFBeNorWJlWhkrFnlDFOh/Spotify--Copy-?node-id=0-1&p=f&t=SFxZOgt6drluP9fX-0">
 here</a> the interactive prototype on Figma.
+
+To start to make the Figma prototype interactive. On the right panel the user can click on the Play button for the Present Mode or change to Preview Mode.\
+There are two flows, one is available before the user has entered some text in the Search bar, and the second view once the text has been inserted.\
+To see all pages within Figma, the user have to first click on Browse Menu on the left pannel.\
+Then some text was added to the search bar, to simulate user interaction.\
+The user have to click on the loop to validate the research of playlist.\
+He can either click on one playlist, or directly add the playlist by clicking on the add icon.\
+If the user has clicked on the playlist, a screen with all music for the playlist is displayed.\
+The final screen is the popup display notifying the user of the successful action to add the playlist.
 
 ## Next phase
 The final phase of the Design Thinking methodology that comes right after the prototype is named Test.
